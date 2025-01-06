@@ -6,7 +6,7 @@
 # dockerfile/java renamed to java
 ### 
 FROM openjdk:7
-MAINTAINER Frank Wang "eternnoir@gmail.com"
+MAINTAINER Frank Wang "sekaran.naras@gmail.com"
 
 EXPOSE 8080
 
